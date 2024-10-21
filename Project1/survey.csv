@@ -1,0 +1,76 @@
+Timestamp,Year,Gender,Job,GuessAmountSpentThisMonth,ActualMoneySpentThisMonth,BiggestCategoryofSpending,CouponsorDeals,TypeofShopper
+10/18/2023 17:14,Fourth Year,Male,Yes,2500.00,2014.00,Miscellaneous,No,Chore
+10/18/2023 17:18,Third Year,Female,No,2000.00,2000.00,Rent/Housing/Utilities,No,Chore
+10/18/2023 17:21,Fourth Year,Female,Yes,1500.00,1700.00,Rent/Housing/Utilities,No,Chore
+10/18/2023 17:24,Fourth Year,Male,No,3000.00,2500.00,Rent/Housing/Utilities,Yes,Entertainment
+10/18/2023 17:25,Fourth Year,Female,No,150.00,125.00,Groceries/Food,Yes,Entertainment
+10/18/2023 17:33,Fourth Year,Female,Yes,1000.00,1329.00,"Personal Spending (clothes, shoes, going out, etc)",No,Entertainment
+10/18/2023 17:33,Third Year,Female,Yes,300.00,451.38,"Personal Spending (clothes, shoes, going out, etc)",No,Entertainment
+10/18/2023 18:03,Fourth Year,Female,No,700.00,785.00,Groceries/Food,Yes,Entertainment
+10/18/2023 18:23,Fourth Year,Female,No,200.00,450.00,Groceries/Food,No,Chore
+10/18/2023 18:50,Fourth Year,Female,Yes,200.00,230.00,Groceries/Food,Yes,Entertainment
+10/18/2023 18:52,Fourth Year,Female,Yes,100.00,427.00,Groceries/Food,Yes,Entertainment
+10/18/2023 19:58,Fourth Year,Female,Yes,350.00,250.00,Groceries/Food,Yes,Chore
+10/18/2023 20:07,Third Year,Female,No,1400.00,1640.00,Rent/Housing/Utilities,Yes,Entertainment
+10/18/2023 21:44,Third Year,Female,No,1800.00,2000.00,Rent/Housing/Utilities,Yes,Entertainment
+10/18/2023 22:30,Fourth Year,Female,Yes,950.00,802.65,Groceries/Food,Yes,Entertainment
+10/19/2023 10:22,Fourth Year,Female,Yes,1000.00,1357.15,Rent/Housing/Utilities,Yes,Chore
+10/19/2023 12:33,Fourth Year,Female,No,400.00,484.00,Groceries/Food,Yes,Entertainment
+10/19/2023 13:36,Fourth Year,Male,No,500.00,413.00,"Personal Spending (clothes, shoes, going out, etc)",No,Chore
+10/19/2023 13:38,Third Year,Male,Yes,150.00,20.00,Groceries/Food,No,Chore
+10/19/2023 13:48,Third Year,Female,No,100.00,100.00,Miscellaneous,Yes,Chore
+10/19/2023 15:41,Fourth Year,Male,Yes,150.00,358.00,Groceries/Food,No,Chore
+10/19/2023 15:42,Third Year,Female,Yes,200.00,180.00,Groceries/Food,Yes,Chore
+10/21/2023 16:20,Second Year,Female,No,200.00,350.00,"Personal Spending (clothes, shoes, going out, etc)",No,Chore
+10/21/2023 16:21,Second Year,Female,Yes,1200.00,950.00,Rent/Housing/Utilities,Yes,Chore
+10/21/2023 16:21,Third Year,Female,Yes,200.00,150.00,Groceries/Food,Yes,Entertainment
+10/21/2023 16:21,Third Year,Female,No,1000.00,1277.78,Rent/Housing/Utilities,Yes,Chore
+10/21/2023 16:36,Third Year,Male,Yes,500.00,653.00,Investing/Debt Payment,No,Chore
+10/21/2023 16:37,Second Year,Female,No,500.00,650.00,"Personal Spending (clothes, shoes, going out, etc)",Yes,Entertainment
+10/21/2023 16:45,Third Year,Female,Yes,600.00,734.00,"Personal Spending (clothes, shoes, going out, etc)",No,Entertainment
+10/21/2023 16:50,Third Year,Female,No,200.00,87.00,"Personal Spending (clothes, shoes, going out, etc)",Yes,Entertainment
+10/21/2023 16:58,Third Year,Male,No,400.00,350.00,Transportation,No,Chore
+10/21/2023 18:11,Third Year,Female,Yes,300.00,400.00,Groceries/Food,Yes,Entertainment
+10/21/2023 19:21,Third Year,Male,No,500.00,700.00,Groceries/Food,No,Entertainment
+10/21/2023 20:02,Third Year,Male,Yes,320.00,305.00,Groceries/Food,Yes,Entertainment
+10/21/2023 20:34,Third Year,Male,No,1400.00,2000.00,Groceries/Food,No,Entertainment
+10/21/2023 23:51,Third Year,Male,Yes,35.00,79.00,Groceries/Food,Yes,Entertainment
+10/22/2023 12:59,Third Year,Female,No,100.00,100.00,Groceries/Food,Yes,Entertainment
+10/23/2023 15:25,Fourth Year,Female,No,1000.00,1775.00,Groceries/Food,Yes,Chore
+10/24/2023 16:27,Third Year,Male,Yes,600.00,650.00,Groceries/Food,Yes,Chore
+10/24/2023 16:29,Second Year,Male,No,300.00,450.00,"Personal Spending (clothes, shoes, going out, etc)",No,Entertainment
+10/24/2023 16:29,Third Year,Male,No,700.00,800.00,Miscellaneous,Yes,Chore
+10/24/2023 16:32,Fourth Year,Male,No,1200.00,1400.00,"Personal Spending (clothes, shoes, going out, etc)",Yes,Entertainment
+10/24/2023 16:45,Fourth Year,Male,Yes,500.00,974.00,Miscellaneous,Yes,Entertainment
+10/24/2023 16:46,Third Year,Male,Yes,400.00,740.00,Groceries/Food,Yes,Chore
+10/24/2023 16:48,Fourth Year,Male,Yes,800.00,950.00,"Personal Spending (clothes, shoes, going out, etc)",Yes,Entertainment
+10/24/2023 16:51,First Year,Male,No,400.00,370.00,Groceries/Food,No,Chore
+10/24/2023 16:53,Fourth Year,Male,No,499.97,396.00,"Personal Spending (clothes, shoes, going out, etc)",Yes,Chore
+10/24/2023 16:54,Third Year,Male,No,600.00,415.00,Groceries/Food,Yes,Chore
+10/24/2023 16:56,Second Year,Male,No,700.00,1100.00,Groceries/Food,No,Entertainment
+10/24/2023 16:57,Second Year,Male,Yes,2000.00,1895.00,Rent/Housing/Utilities,No,Chore
+10/24/2023 16:57,Second Year,Male,Yes,500.00,573.00,Groceries/Food,Yes,Chore
+10/24/2023 16:58,Second Year,Male,No,200.00,400.00,Groceries/Food,No,Chore
+10/24/2023 17:02,Fourth Year,Male,No,1000.00,800.00,Miscellaneous,No,Chore
+10/24/2023 17:03,Fourth Year,Male,Yes,200.00,154.68,Groceries/Food,No,Chore
+10/24/2023 17:04,Third Year,Female,Yes,200.00,300.00,Groceries/Food,Yes,Entertainment
+10/24/2023 17:04,Second Year,Male,Yes,1400.00,1284.00,Rent/Housing/Utilities,No,Chore
+10/24/2023 17:05,Fourth Year,Male,Yes,1000.00,1100.00,Groceries/Food,Yes,Entertainment
+10/24/2023 17:06,Second Year,Male,No,500.00,396.34,"Personal Spending (clothes, shoes, going out, etc)",Yes,Entertainment
+10/24/2023 17:07,Second Year,Male,No,400.00,600.00,Groceries/Food,Yes,Chore
+10/24/2023 17:18,Second Year,Male,No,200.00,400.00,Groceries/Food,No,Chore
+10/24/2023 17:43,Third Year,Male,Yes,1000.00,1050.00,Groceries/Food,Yes,Chore
+10/24/2023 17:48,Fourth Year,Male,Yes,1000.00,1216.00,Rent/Housing/Utilities,Yes,Chore
+10/24/2023 18:21,Third Year,Male,No,900.00,1200.00,Rent/Housing/Utilities,Yes,Chore
+10/24/2023 18:21,Fourth Year,Male,Yes,1000.00,910.00,"Personal Spending (clothes, shoes, going out, etc)",No,Entertainment
+10/24/2023 19:21,Third Year,Male,No,200.00,312.04,Groceries/Food,No,Chore
+10/24/2023 19:41,Second Year,Male,No,3000.00,3015.00,"Personal Spending (clothes, shoes, going out, etc)",No,Chore
+10/24/2023 20:50,Second Year,Male,No,200.00,140.00,Groceries/Food,No,Chore
+10/24/2023 21:09,Third Year,Male,No,300.00,388.00,"Personal Spending (clothes, shoes, going out, etc)",Yes,Chore
+10/24/2023 21:10,First Year,Male,No,80.00,60.00,"Personal Spending (clothes, shoes, going out, etc)",No,Chore
+10/24/2023 22:10,Second Year,Male,No,30.00,41.00,"Personal Spending (clothes, shoes, going out, etc)",No,Chore
+10/25/2023 0:11,Second Year,Male,No,300.00,250.00,Groceries/Food,No,Chore
+10/25/2023 1:28,First Year,Male,No,400.00,300.00,Groceries/Food,Yes,Entertainment
+10/25/2023 9:09,Third Year,Female,Yes,2000.00,2300.00,Rent/Housing/Utilities,No,Entertainment
+10/25/2023 11:08,Third Year,Female,Yes,250.00,351.00,Groceries/Food,Yes,Entertainment
+10/25/2023 11:53,Second Year,Male,Yes,500.00,715.00,"Personal Spending (clothes, shoes, going out, etc)",No,Chore
